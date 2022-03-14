@@ -109,4 +109,4 @@ login - (when password is given) to login to bot
 
 [Dan](https://telegram.dog/haskell) for his [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-[MaheshMalekar ❤](https://telegram.dog/MaheshMalekar) for teaching me python
+[MaheshMalekar ❤](https://telegram.dog/MaheshMalekar) for teaching me python .
